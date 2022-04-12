@@ -1,0 +1,31 @@
+body{
+background-color: hsl(212, 45%, 89%);
+}
+
+#container{
+width: 5px;
+color: hsl(218, 44%, 22%);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin: auto;
+width: 900px;
+text-align: center;
+border: 3px solid #hsl(220, 15%, 55%);
+padding: 10px;
+padding-top: 20px;
+border-radius: 20px;
+background-color: white
+}
+
+
+    
+
+}
+}
+
+p{
+    font-size: 15px;
+}
+
+
+
+}
